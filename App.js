@@ -23,39 +23,33 @@ const Header = () => {
   );
 };
 
-const RestaurantCard = () => {
+const RestaurantCard = ({ restaurant }) => {
+  const { name, rating, costForTwo, cuisines, locationInfo, mediaFiles } = restaurant?.info;
   return (
     <div className="res-card">
       <img
-        src="https://dineout-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1662126147/czvdrfidfdzlnb0sy21a.webpt"
+        src={"https://dineout-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/"+mediaFiles[0].url} 
         alt="res-logo"
         className="res-logo"
       />
-      <h3>Mehana Foods</h3>
-      <h4>Biryani , North Indian, Asian</h4>
-      <h4>4.4 stars</h4>
-      <h4>38 minutes</h4>
+      <h3>{name}</h3>
+      <h4>{cuisines.join(", ")}</h4>
+      <h4>{costForTwo} stars</h4>
+      <h4>{rating.value} stars</h4>
+      <h4>{locationInfo.distanceString}</h4>
     </div>
   );
 };
 
 const Body = () => {
+  const restaurants = require("./res-list.json");
   return (
     <div className="body">
       <div className="search">Search</div>
       <div className="res-container">
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard /> 
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
+        {restaurants.map((res) => (
+          <RestaurantCard key={res.info.id} restaurant={res} />
+        ))}
       </div>
     </div>
   );

@@ -1,0 +1,3502 @@
+[
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "82160",
+      "name": "Shree Mahalakshmi Sweets",
+      "rating": {
+        "value": "4.1",
+        "count": 282,
+        "countDescription": "282 Google ratings"
+      },
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Desserts", "Street Food"],
+      "locality": "Basavanagudi",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-18T10:05:37.946",
+          "name": "dish",
+          "url": "v1660817139/jpfuwsqupbdsjsgn3jg6.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-18T10:06:06.024",
+          "name": "dish",
+          "url": "v1660817168/porxpusejdq8iqpt93gu.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-18T10:06:13.085",
+          "name": "dish",
+          "url": "v1660817175/b88o9mhvbakyfyu51n1l.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-18T10:06:20.079",
+          "name": "dish",
+          "url": "v1660817182/cj1ifhke4ch1sgnwwjue.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-18T10:06:09.631",
+          "name": "dish",
+          "url": "v1660817172/fmm5iczsymawuandjrsr.jpg"
+        }
+      ],
+      "highlights": ["SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "1.2 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Basavanagudi, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 15% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "15% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 15% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 15% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/shree-mahalakshmi-sweets-basavanagudi-bangalore-82160/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "45008",
+      "name": "Frozen Bottle",
+      "rating": {
+        "value": "4.0",
+        "count": 303,
+        "countDescription": "303 Google ratings"
+      },
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Beverages", "Desserts"],
+      "locality": "Binnipete",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-10-06T23:01:51.389",
+          "name": "ambience",
+          "url": "v1665097313/d2lp3cjtynm4w3prqon1.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-04-12T07:29:13.774",
+          "name": "Dish",
+          "url": "v1681283877/233a7600216c8daf0eebf928369472fc.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-04-12T07:29:13.596",
+          "name": "Dish",
+          "url": "v1681283878/f0f42d01cd07ec9494b32c0e5f6e8219.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-04-12T07:29:14.734",
+          "name": "Dish",
+          "url": "v1681283876/602f55413af2b5d71333a8af03bc7172.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-10-06T23:01:46.917",
+          "name": "ambience",
+          "url": "v1665097309/xwzwgvwjmdyckvgwqksa.jpg"
+        }
+      ],
+      "highlights": ["Parking available", "SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "2 km",
+        "landmarkName": "ETA Mall",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "ETA Mall, Binnipete, Bangalore"
+      },
+      "offerInfoV2": {
+        "otherOffers": {
+          "logo": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+          },
+          "offers": [
+            {
+              "header": "FLAT 20% OFF",
+              "offerLogo": {},
+              "availability": "AVAILABILITY_AVAILABLE_TODAY",
+              "dealCategory": "Pre-Book",
+              "availabilityDescription": "Available today"
+            }
+          ]
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "10% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 10% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 10
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "TODAY’S \nDISCOUNT",
+            "type": "FLAT",
+            "title": "20% OFF",
+            "description": "FLAT 20% OFF",
+            "isOfferApplicableNow": true,
+            "offerType": "OFFER_TYPE_V2_PRE_BOOK",
+            "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+            },
+            "dealCategory": "Pre-Book",
+            "availabilityDescription": "Available today",
+            "offersLogoV2": [
+              {
+                "logo": "dineout/rx-card/OFFER.png",
+                "type": "LOGO_TYPE_RX_TILE"
+              },
+              {
+                "logo": "dineout/search/as/Offers.png",
+                "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+              },
+              {
+                "type": 3
+              }
+            ],
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 20
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 2,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 20% off",
+          "subtitle": "on pre-booking",
+          "subtext": "+ 2 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/frozen-bottle-binnipete-bangalore-45008/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "291320",
+      "name": "Board 4 Bored",
+      "rating": {
+        "value": "4.5",
+        "count": 2928,
+        "countDescription": "2K+ Google ratings"
+      },
+      "costForTwo": "₹800 for two",
+      "cuisines": ["Chinese", "Fast Food"],
+      "locality": "Basavanagudi",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:10.240",
+          "name": "ambience",
+          "url": "v1660222272/f7gvkpz9nqphcenpzovb.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:13.957",
+          "name": "ambience",
+          "url": "v1660222276/hvpquw2jkxzelxxb7tbf.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:17.819",
+          "name": "ambience",
+          "url": "v1660222280/wcg73stecgjobx3ycaza.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:02.438",
+          "name": "ambience",
+          "url": "v1660222265/nvqw9n7r2dthi0w8f6di.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:49.245",
+          "url": "v1660222311/ijio5wnkujqmob9rdi1w.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:52.305",
+          "url": "v1660222315/vtcqlb0v9cx40g7cbahp.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T12:51:56.200",
+          "url": "v1660222318/icnleiejacsoopo0hare.jpg"
+        }
+      ],
+      "highlights": ["SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "2.7 km",
+        "landmarkName": "Chaitanya Plaza",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Chaitanya Plaza, Basavanagudi, Bangalore"
+      },
+      "offerInfoV2": {
+        "otherOffers": {
+          "logo": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+          },
+          "offers": [
+            {
+              "header": "FLAT 25% OFF",
+              "offerLogo": {},
+              "availability": "AVAILABILITY_AVAILABLE_LATER",
+              "dealCategory": "Pre-Book",
+              "availabilityDescription": "Available 6 Jan"
+            },
+            {
+              "header": "FLAT 20% OFF",
+              "offerLogo": {},
+              "availability": "AVAILABILITY_AVAILABLE_TODAY",
+              "dealCategory": "Pre-Book",
+              "availabilityDescription": "Filling Fast"
+            }
+          ]
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "20% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 20% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 20
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "TODAY’S \nDISCOUNT",
+            "type": "FLAT",
+            "title": "25% OFF",
+            "description": "FLAT 25% OFF",
+            "offerType": "OFFER_TYPE_V2_PRE_BOOK",
+            "availability": "OFFER_AVAILABILITY_AVAILABLE_LATER",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+            },
+            "dealCategory": "Pre-Book",
+            "availabilityDescription": "Available 6 Jan",
+            "offersLogoV2": [
+              {
+                "logo": "dineout/rx-card/OFFER.png",
+                "type": "LOGO_TYPE_RX_TILE"
+              },
+              {
+                "logo": "dineout/search/as/Offers.png",
+                "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+              },
+              {
+                "type": 3
+              }
+            ],
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 25
+            }
+          },
+          {
+            "header": "TODAY’S \nDISCOUNT",
+            "type": "FLAT",
+            "title": "20% OFF",
+            "description": "FLAT 20% OFF",
+            "isOfferApplicableNow": true,
+            "offerType": "OFFER_TYPE_V2_PRE_BOOK",
+            "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+            },
+            "dealCategory": "Pre-Book",
+            "availabilityDescription": "Filling Fast",
+            "offersLogoV2": [
+              {
+                "logo": "dineout/rx-card/OFFER.png",
+                "type": "LOGO_TYPE_RX_TILE"
+              },
+              {
+                "logo": "dineout/search/as/Offers.png",
+                "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+              },
+              {
+                "type": 3
+              }
+            ],
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 20
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 3,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 25% off",
+          "subtitle": "on pre-booking",
+          "subtext": "+ 3 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/board-4-bored-basavanagudi-bangalore-291320/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "512836",
+      "name": "Scotland Curry House",
+      "rating": {
+        "value": "4.2",
+        "count": 260,
+        "countDescription": "260 Google ratings"
+      },
+      "costForTwo": "₹1000 for two",
+      "cuisines": ["Chinese", "North Indian"],
+      "locality": "Majestic",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-13T11:31:39.344",
+          "name": "ambience",
+          "url": "v1660390301/svcwtp6d61nilziewtu2.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-13T11:31:42.466",
+          "name": "ambience",
+          "url": "v1660390304/zyuscgkmcozbhycxdf1g.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-13T11:32:13.936",
+          "name": "dish",
+          "url": "v1660390335/vuady73mhbtibdi33xup.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-13T11:32:10.269",
+          "name": "dish",
+          "url": "v1660390332/lhdemzmudjyamade88yw.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-13T11:32:16.743",
+          "name": "dish",
+          "url": "v1660390338/hbsbapqoaghioekpauzu.jpg"
+        }
+      ],
+      "highlights": ["Parking available", "SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "2.7 km",
+        "landmarkName": "Zion Hotel",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Zion Hotel, Majestic, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 15% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "15% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 15% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 15% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/scotland-curry-house-majestic-bangalore-512836/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "108098",
+      "name": "The Bangalore Cafe",
+      "rating": {
+        "value": "4.2",
+        "count": 10490,
+        "countDescription": "10K+ Google ratings"
+      },
+      "costForTwo": "₹1000 for two",
+      "cuisines": ["Continental", "North Indian"],
+      "locality": "Shanti Nagar",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-21T20:37:07.803",
+          "name": "ambience",
+          "url": "v1661114230/majnc6ovxnpidnsj9tfb.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-21T20:36:55.943",
+          "name": "ambience",
+          "url": "v1661114218/bij4zmsliolzoxqhd3hp.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-21T20:37:04.225",
+          "name": "ambience",
+          "url": "v1661114226/oangxpm3sslwgbksuhfc.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-21T20:38:34.591",
+          "name": "dish",
+          "url": "v1661114317/pea8caj7ltca4cul74yt.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-21T20:38:38.548",
+          "name": "dish",
+          "url": "v1661114321/px17ipswykquui7bndx8.jpg"
+        }
+      ],
+      "highlights": [
+        "Parking available",
+        "Free wifi",
+        "Smoking area",
+        "SwiggyPay accepted",
+        "Pure veg"
+      ],
+      "locationInfo": {
+        "distanceString": "3.3 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Shanti Nagar, Bangalore"
+      },
+      "offerInfoV2": {
+        "otherOffers": {
+          "logo": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+          },
+          "offers": [
+            {
+              "header": "FLAT 20% OFF",
+              "offerLogo": {},
+              "availability": "AVAILABILITY_AVAILABLE_TODAY",
+              "dealCategory": "Pre-Book",
+              "availabilityDescription": "Available today"
+            }
+          ]
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "10% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 10% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 10
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "TODAY’S \nDISCOUNT",
+            "type": "FLAT",
+            "title": "20% OFF",
+            "description": "FLAT 20% OFF",
+            "isOfferApplicableNow": true,
+            "offerType": "OFFER_TYPE_V2_PRE_BOOK",
+            "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+            },
+            "dealCategory": "Pre-Book",
+            "availabilityDescription": "Available today",
+            "offersLogoV2": [
+              {
+                "logo": "dineout/rx-card/OFFER.png",
+                "type": "LOGO_TYPE_RX_TILE"
+              },
+              {
+                "logo": "dineout/search/as/Offers.png",
+                "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+              },
+              {
+                "type": 3
+              }
+            ],
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 20
+            }
+          }
+        ],
+        "infos": [
+          {
+            "header": "Get extra 10% off using TRYNEW",
+            "description": " 10% off with TRYNEW + Up to 10% bank offers",
+            "coupon": {
+              "code": "TRYNEW"
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "offerCount": 2,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 20% off",
+          "subtitle": "on pre-booking",
+          "subtext": "+ 2 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        },
+        "couponOffer": {
+          "title": "Get extra 10% off using TRYNEW",
+          "style": {
+            "textColour": "primary_accent"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/the-bangalore-cafe-shanti-nagar-bangalore-108098/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "39400",
+      "name": "South Ruchis Square",
+      "rating": {
+        "value": "4.3",
+        "count": 8202,
+        "countDescription": "8K+ Google ratings"
+      },
+      "costForTwo": "₹800 for two",
+      "cuisines": ["North Indian", "South Indian"],
+      "locality": "Race Course Road",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:50:56.621",
+          "name": "ambience",
+          "url": "v1660218658/wgm5b63ouo5b0i2eqsqh.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:50:49.648",
+          "name": "ambience",
+          "url": "v1660218651/gwljssn0lkgtramdckuf.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:50:53.561",
+          "name": "ambience",
+          "url": "v1660218655/i3jdpugjvjlvy1dejy2r.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:51:01.728",
+          "name": "ambience",
+          "url": "v1660218664/hsk18eagw6ckg7solnph.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:51:13.286",
+          "name": "ambience",
+          "url": "v1660218675/eeqzmpzk1bgxo2ntwafe.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:52:43.871",
+          "name": "dish",
+          "url": "v1660218766/fcejhnuu7p7id0b6yplc.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-11T11:52:55.969",
+          "name": "dish",
+          "url": "v1660218778/rzdtcae0pvt7xl3lbtfq.jpg"
+        }
+      ],
+      "highlights": [
+        "Jain food",
+        "Parking available",
+        "SwiggyPay accepted",
+        "Pure veg"
+      ],
+      "locationInfo": {
+        "distanceString": "3.2 km",
+        "landmarkName": "South Ruchis Square",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "South Ruchis Square, Race Course Road, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 15% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "15% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 15% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 15% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/south-ruchis-square-race-course-road-bangalore-39400/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "195786",
+      "name": "LifeTree (Inspired Vegetarian Cuisine)",
+      "rating": {
+        "value": "4.3",
+        "count": 1683,
+        "countDescription": "1K+ Google ratings"
+      },
+      "costForTwo": "₹1500 for two",
+      "cuisines": ["Continental", "North Indian"],
+      "locality": "Central Bangalore",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-16T06:05:45.945",
+          "name": "ambience",
+          "url": "v1660629948/naizvhe1cbzmuh0sxhv0.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-16T06:05:50",
+          "name": "ambience",
+          "url": "v1660629953/zywtnb7cyaddpruekrwn.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-16T06:06:01.818",
+          "name": "ambience",
+          "url": "v1660629964/uw1ka5xyrvkpkcqf0v8g.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-16T06:05:54.121",
+          "name": "ambience",
+          "url": "v1660629956/mlehsmtpwrjyjx966vjg.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-16T06:07:00.959",
+          "url": "v1660630023/gydgs6hcwsl2dhvrlvub.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-16T06:06:54.229",
+          "url": "v1660630016/rfp38x4wq7cjskp4leeu.jpg"
+        }
+      ],
+      "highlights": [
+        "Parking available",
+        "Smoking area",
+        "SwiggyPay accepted",
+        "Pure veg"
+      ],
+      "locationInfo": {
+        "distanceString": "4.5 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Central Bangalore, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 20% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "20% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 20% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 20
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 20% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/lifetree-inspired-vegetarian-cuisine-central-bangalore-195786/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "665750",
+      "name": "Patiala NH 44",
+      "rating": {
+        "value": "3.9",
+        "count": 1878,
+        "countDescription": "1K+ Google ratings"
+      },
+      "costForTwo": "₹700 for two",
+      "cuisines": ["North Indian"],
+      "locality": "Basavanagudi",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2023-01-11T04:48:51.745",
+          "url": "v1673412533/cc8dcea606203948fed41a950976af3d.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-01-11T04:48:51.635",
+          "url": "v1673412532/cb57c3fbfeac5e5a0e78943d9f94227b.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-01-11T04:48:01.600",
+          "name": "dish",
+          "url": "v1673412482/cdd799108c6abe1ba11f3e3816714f37.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-01-11T04:48:01.658",
+          "name": "dish",
+          "url": "v1673412482/ce04fc2d9f5cffc015441f585ce9e1be.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-01-11T04:48:51.755",
+          "url": "v1673412533/2e41e9801b3fe55d4161b7a826de75f4.webp"
+        }
+      ],
+      "highlights": ["SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "2.2 km",
+        "landmarkName": "Bosco Court Building",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Bosco Court Building, Basavanagudi, Bangalore"
+      },
+      "offerInfoV2": {
+        "customerOffer": {
+          "header": "Up to 10% off with HDFC Bank Credit Card",
+          "otherOfferLogo": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          }
+        }
+      },
+      "vendorOffer": {
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "paymentOffer": {
+          "title": "Up to 10% off with bank offers",
+          "style": {
+            "textColour": "positive",
+            "bgColour": "color_positive_sub"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/patiala-nh-44-basavanagudi-bangalore-665750/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "63603",
+      "name": "The London Curry House",
+      "rating": {
+        "value": "4.2",
+        "count": 11703,
+        "countDescription": "11K+ Google ratings"
+      },
+      "costForTwo": "₹2200 for two",
+      "cuisines": ["Chinese", "North Indian"],
+      "locality": "Race Course Road",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2023-05-01T06:57:34.006",
+          "url": "v1682924255/39c521ff8aa755c5c2f4cedeb8b7b601.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-24T02:00:34.522",
+          "name": "ambience",
+          "url": "v1661306436/spkz754tbktcgusyivsh.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-24T02:01:45.304",
+          "name": "dish",
+          "url": "v1661306507/mvgsf2rsntmfcz9ut8aw.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-24T02:01:40.235",
+          "name": "dish",
+          "url": "v1661306502/u3d6kfynbmghhuvahds0.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-05-01T06:57:36.424",
+          "url": "v1682924258/8c4ddbcd1dfb104c2ff59f5417f7a77f.jpg"
+        }
+      ],
+      "highlights": [
+        "Parking available",
+        "Valet parking",
+        "Free wifi",
+        "SwiggyPay accepted",
+        "Pure veg"
+      ],
+      "locationInfo": {
+        "distanceString": "3.5 km",
+        "landmarkName": "The Royal Senate",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "The Royal Senate, Race Course Road, Bangalore"
+      },
+      "offerInfoV2": {
+        "otherOffers": {
+          "logo": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+          },
+          "offers": [
+            {
+              "header": "FLAT 20% OFF",
+              "offerLogo": {},
+              "availability": "AVAILABILITY_FILLING_FAST",
+              "dealCategory": "Pre-Book",
+              "availabilityDescription": "Filling Fast"
+            }
+          ]
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "10% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 10% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 10
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "TODAY’S \nDISCOUNT",
+            "type": "FLAT",
+            "title": "20% OFF",
+            "description": "FLAT 20% OFF",
+            "isOfferApplicableNow": true,
+            "offerType": "OFFER_TYPE_V2_PRE_BOOK",
+            "availability": "OFFER_AVAILABILITY_FILLING_FAST",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+            },
+            "dealCategory": "Pre-Book",
+            "availabilityDescription": "Filling Fast",
+            "offersLogoV2": [
+              {
+                "logo": "dineout/rx-card/OFFER.png",
+                "type": "LOGO_TYPE_RX_TILE"
+              },
+              {
+                "logo": "dineout/search/as/Offers.png",
+                "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+              },
+              {
+                "type": 3
+              }
+            ],
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 20
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 2,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 20% off",
+          "subtitle": "on pre-booking",
+          "subtext": "+ 2 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/the-london-curry-house-race-course-road-bangalore-63603/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "32687",
+      "name": "Shree Mahalakshmi Sweets",
+      "rating": {
+        "value": "4.0",
+        "count": 776,
+        "countDescription": "776 Google ratings"
+      },
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Desserts", "Street Food"],
+      "locality": "Banashankari",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:37.687",
+          "name": "dish",
+          "url": "v1661035299/dxclpu04rtlzevrjua1d.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:22.862",
+          "name": "dish",
+          "url": "v1661035284/kgqrcx0tiiarunj10fxu.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:41.358",
+          "name": "dish",
+          "url": "v1661035303/tmx53dhbwuaz8iljec2c.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:20.523",
+          "name": "dish",
+          "url": "v1661035282/mauku8bdlfytcpo1mde9.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:18.030",
+          "name": "dish",
+          "url": "v1661035279/hfufmr6shsjfrb0k1pkb.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:31.183",
+          "name": "dish",
+          "url": "v1661035293/rzao1j5apm4tywnmwayz.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-08-20T22:41:51.945",
+          "name": "dish",
+          "url": "v1661035314/qnffko1tzf55wjoosrkt.jpg"
+        }
+      ],
+      "highlights": ["SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "3.9 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Banashankari, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 15% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "15% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 15% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 15% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/shree-mahalakshmi-sweets-banashankari-bangalore-32687/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "621903",
+      "name": "Saffron By Sanmanaa",
+      "rating": {
+        "value": "4.2",
+        "count": 207,
+        "countDescription": "207 Google ratings"
+      },
+      "costForTwo": "₹800 for two",
+      "cuisines": ["Chinese", "North Indian"],
+      "locality": "Basaveshwara Nagar",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2023-06-02T13:33:31.520",
+          "url": "v1685712812/4bd44c4ffbb930d3f9c1ef16f2836a6f.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-06-02T13:33:31.507",
+          "url": "v1685712812/7389f0f2f9202e04422bd50de29266c5.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2024-05-09T07:36:31.951",
+          "url": "DINEOUT_ALL_RESTAURANTS/IMAGES/RESTAURANT_IMAGE_SERVICE/2024/5/9/e24d7980-86c1-409f-8797-de69c3a68477_asas1bc8394330e64585a87d102d7d4e7951.JPG"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-06-02T13:33:04.302",
+          "url": "v1685712785/0205abbbd8a4039e76063a8db42a6d24.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-06-02T13:33:04.327",
+          "url": "v1685712785/c735af176a28f5483968d64a090af65f.webp"
+        }
+      ],
+      "highlights": ["Parking available", "SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "3.9 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Basaveshwara Nagar, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 10% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "10% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 10% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 10
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 10% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/saffron-by-sanmanaa-basaveshwara-nagar-bangalore-621903/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "372055",
+      "name": "Fuga Restaurant & Cafe Lounge",
+      "rating": {
+        "value": "4.3",
+        "count": 498,
+        "countDescription": "498 Google ratings"
+      },
+      "costForTwo": "₹800 for two",
+      "cuisines": ["North Indian", "Chinese"],
+      "locality": "Residency Road",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-10-08T23:00:01.765",
+          "name": "ambience",
+          "url": "v1665270004/wj9cui0o0chb4r2peide.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-10-08T23:00:07.222",
+          "name": "ambience",
+          "url": "v1665270009/zj54d5yrn6wa61eulvh4.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-10-08T23:01:05.851",
+          "name": "dish",
+          "url": "v1665270068/vc1uzqscayq8hdsjmkfu.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-10-08T23:01:10.690",
+          "name": "dish",
+          "url": "v1665270073/nrpevgvjnkpkworw3jay.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-10-08T23:00:17.744",
+          "name": "ambience",
+          "url": "v1665270020/y5vanvlllq6i9eybzarp.jpg"
+        }
+      ],
+      "highlights": [
+        "Parking available",
+        "Smoking area",
+        "SwiggyPay accepted",
+        "Pure veg"
+      ],
+      "locationInfo": {
+        "distanceString": "4.2 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Residency Road, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 15% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "15% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 15% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 15% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/fuga-restaurant-and-cafe-lounge-residency-road-bangalore-372055/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "737830",
+      "name": "Cheesy Crazy",
+      "rating": {
+        "value": "3.7",
+        "count": 15,
+        "countDescription": "15 Google ratings"
+      },
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Fast Food"],
+      "locality": "Basavanagudi",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2023-07-12T05:25:34.826",
+          "url": "v1689139536/f3d24903bcea1753247fa4ad98020e77.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-07-12T05:25:34.848",
+          "url": "v1689139536/0d53a80eb204220d96b672bcdaae33e0.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2023-07-12T05:25:34.812",
+          "url": "v1689139536/163dcc5637994f6b5416a79603c51c48.jpg"
+        }
+      ],
+      "highlights": ["Parking available", "SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "3.9 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Basavanagudi, Bangalore"
+      },
+      "offerInfoV2": {
+        "vendorOffer": {
+          "header": "FLAT 20% OFF",
+          "offerLogo": {}
+        },
+        "customerOffer": {
+          "header": "+Up to 10% off with HDFC Bank Credit Card",
+          "offerLogo": {}
+        }
+      },
+      "vendorOffer": {
+        "info": {
+          "header": "TODAY’S \nDISCOUNT",
+          "type": "FLAT",
+          "title": "20% Off",
+          "subtitle": "on total bill",
+          "description": "FLAT 20% OFF",
+          "isOfferApplicableNow": true,
+          "tnc": [
+            "Discount on this restaurant is applicable throughout the day for you.",
+            "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.",
+            "You get a flat discount on your bill amount with no upper limit.",
+            "This offer cannot be clubbed with an in-house offer or offers from other platforms",
+            "The offer's availability on National/Public Holidays is as per the restaurant's discretion",
+            "The restaurant may levy Service charge/Entry fees as per its discretion",
+            "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.",
+            "Any items ordered that are not included in the offer will be billed separately.",
+            "Menu prices and items may change without prior notice.",
+            "Weekend and weekdays offer might differ as per restaurant’s discretion."
+          ],
+          "offerType": "OFFER_TYPE_V2_REGULAR",
+          "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+          "offersLogoV2": [
+            {
+              "logo": "dineout/rx-card/OFFER.png",
+              "type": "LOGO_TYPE_RX_TILE"
+            },
+            {
+              "logo": "dineout/search/as/Offers.png",
+              "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+            },
+            {
+              "type": 3
+            }
+          ],
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 20
+          }
+        },
+        "infos": [
+          {
+            "description": "Up to 10% off with HDFC Bank Credit Card",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 20% off",
+          "subtitle": "on walk-in",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/cheesy-crazy-basavanagudi-bangalore-737830/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.dinersone.v1.DinersoneRestaurant",
+    "info": {
+      "id": "215958",
+      "name": "Dumont Creamery",
+      "rating": {
+        "value": "4.3",
+        "count": 230,
+        "countDescription": "230 Google ratings"
+      },
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Desserts"],
+      "locality": "Church Street",
+      "mediaFiles": [
+        {
+          "type": "IMAGE",
+          "id": "2022-12-26T07:50:02.770",
+          "url": "v1672041003/295bb9c3c266d8341ae44348f5e02044.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-12-26T07:49:08.257",
+          "name": "dish",
+          "url": "v1672040949/1af70ceda70986ab281529a1c5e01974.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-12-26T07:49:08.268",
+          "name": "dish",
+          "url": "v1672040949/698c54707ab58823199d5be0eba76cdc.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-12-26T07:49:08.278",
+          "name": "dish",
+          "url": "v1672040949/1cc5e47c7db1520c718c9257c9852844.webp"
+        },
+        {
+          "type": "IMAGE",
+          "id": "2022-12-26T07:49:08.178",
+          "name": "dish",
+          "url": "v1672040949/6b785690f17e3efca4db8c35e8517b74.webp"
+        }
+      ],
+      "highlights": ["Free wifi", "SwiggyPay accepted", "Pure veg"],
+      "locationInfo": {
+        "distanceString": "4.8 km",
+        "city": {
+          "name": "Bangalore"
+        },
+        "formattedAddress": "Church Street, Bangalore"
+      },
+      "offerInfoV2": {
+        "otherOffers": {
+          "logo": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+          },
+          "offers": [
+            {
+              "header": "FLAT 20% OFF",
+              "offerLogo": {},
+              "availability": "AVAILABILITY_AVAILABLE_TODAY",
+              "dealCategory": "Pre-Book",
+              "availabilityDescription": "Available today"
+            }
+          ]
+        }
+      },
+      "vendorOffer": {
+        "otherOffersInfo": [
+          {
+            "header": "TODAY’S \nDISCOUNT",
+            "type": "FLAT",
+            "title": "20% OFF",
+            "description": "FLAT 20% OFF",
+            "isOfferApplicableNow": true,
+            "offerType": "OFFER_TYPE_V2_PRE_BOOK",
+            "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+            "otherLogoContext": {
+              "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
+            },
+            "dealCategory": "Pre-Book",
+            "availabilityDescription": "Available today",
+            "offersLogoV2": [
+              {
+                "logo": "dineout/rx-card/OFFER.png",
+                "type": "LOGO_TYPE_RX_TILE"
+              },
+              {
+                "logo": "dineout/search/as/Offers.png",
+                "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+              },
+              {
+                "type": 3
+              }
+            ],
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 20
+            }
+          }
+        ],
+        "infos": [
+          {
+            "header": "Get extra 10% off using TRYNEW",
+            "description": " 10% off with TRYNEW + Up to 10% bank offers",
+            "coupon": {
+              "code": "TRYNEW"
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "offerCount": 1,
+        "offerHighlights": [
+          {
+            "logoCtx": {
+              "text": "Table booking",
+              "logo": "dineout/rx-card/highlights/book.png"
+            }
+          }
+        ]
+      },
+      "customerOffer": {
+        "info": {
+          "description": "+ Up to 10% bank offers",
+          "otherLogoContext": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+          },
+          "discountInfo": {
+            "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+            "discountValue": 15
+          }
+        },
+        "loyaltyInfo": {
+          "cta": {},
+          "offerDetail": {
+            "type": "FLAT",
+            "title": "₹150 Off",
+            "subtitle": "above ₹1500",
+            "description": " ₹150 off",
+            "logoContext": {
+              "text": "with",
+              "logo": "ONE"
+            },
+            "coupon": {
+              "availableCouponCount": 2
+            },
+            "otherLogoContext": {
+              "logo": "OFFER_LOGO"
+            },
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_FLAT",
+              "discountValue": 150
+            }
+          },
+          "oneBenefit": {
+            "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+          }
+        },
+        "otherOffersInfo": [
+          {
+            "header": "ADDITIONAL OFFERS",
+            "type": "CASHBACK",
+            "title": "10%*",
+            "description": "10% cashback",
+            "logoContext": {
+              "logo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/1/3/d12fd401-12c1-4bc7-ad56-481c7d2b8bbe_"
+            },
+            "tnc": [
+              "Valid only on Swiggy HDFC Bank Credit Card",
+              "Applicable on a minimum net transaction value of ₹100",
+              "Monthly cashback limit of ₹1500 on Swiggy spends",
+              "Cashback will be processed in the next statement cycle",
+              "Other T&Cs may apply"
+            ],
+            "coupon": {},
+            "adjoiningSubtext": "Above ₹100",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 10
+            }
+          }
+        ],
+        "infos": [
+          {
+            "description": "Up to 10% off with bank offers",
+            "discountInfo": {
+              "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+              "discountValue": 15
+            }
+          }
+        ],
+        "offerCount": 1
+      },
+      "isPaymentAccepted": true,
+      "mediaStyle": {
+        "aspectRatio": 1.7778
+      },
+      "vendorHighlights": [
+        {
+          "logo": {
+            "logo": "dineout/rx-card/highlights/book.png"
+          },
+          "title": "Table booking",
+          "style": {
+            "textColour": "text_color_med_emphasis",
+            "bgColour": "background_button_tertiary_low"
+          }
+        }
+      ],
+      "offerInfoV3": {
+        "offerLogo": {
+          "logo": "dineout/rx-card/OFFER.png"
+        },
+        "vendorOffer": {
+          "title": "Flat 20% off",
+          "subtitle": "on pre-booking",
+          "subtext": "+ 1 more",
+          "style": {
+            "textColour": "text_color_highest_emphasis_inverse",
+            "bgColour": "positive"
+          }
+        },
+        "couponOffer": {
+          "title": "Get extra 10% off using TRYNEW",
+          "style": {
+            "textColour": "primary_accent"
+          }
+        }
+      },
+      "vegClassifier": "VEG_CLASSIFIER_VEG"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/dumont-creamery-church-street-bangalore-215958/dineout",
+      "text": "DINERSONE_REST_DETAIL",
+      "type": "WEBLINK"
+    }
+  }
+]
